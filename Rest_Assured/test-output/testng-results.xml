@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10334" started-at="2018-08-20T04:04:33Z" finished-at="2018-08-20T04:04:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10334" started-at="2018-08-20T04:04:33Z" finished-at="2018-08-20T04:04:43Z">
+      <class name="Rest_Assured.Rest_Assured.Login">
+        <test-method status="PASS" signature="Loginvalid()[pri:0, instance:Rest_Assured.Rest_Assured.Login@26be92ad]" name="Loginvalid" duration-ms="10290" started-at="2018-08-20T04:04:33Z" finished-at="2018-08-20T04:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginvalid -->
+      </class> <!-- Rest_Assured.Rest_Assured.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

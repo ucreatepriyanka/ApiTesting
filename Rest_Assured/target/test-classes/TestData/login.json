@@ -1,0 +1,11 @@
+{
+"validdetails":[
+               {"password":"Test123"},
+               {"url":"https://uat-connected-2-api.herokuapp.com/sessions/driver"},
+               {"email":"g@g.com"},
+               {"email2":"t@z.com"},
+               {"email3":"u@d.com"},
+               {"email4":"t@k.com"},
+               {"email5":"p@s.com"}
+              ]
+}
