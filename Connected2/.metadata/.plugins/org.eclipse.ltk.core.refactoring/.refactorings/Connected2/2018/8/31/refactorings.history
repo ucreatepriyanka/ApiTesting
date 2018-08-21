@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;RestAssuredFramework.Connected2.Drivers.drivers&apos; to &apos;DriversTest&apos;&#x0A;- Original project: &apos;Connected2&apos;&#x0A;- Original element: &apos;RestAssuredFramework.Connected2.Drivers.drivers&apos;&#x0A;- Renamed element: &apos;RestAssuredFramework.Connected2.Drivers.DriversTest&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;drivers&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;RestAssuredFramework.Connected2.Drivers{drivers.java[drivers" matchStrategy="1" name="DriversTest" qualified="false" references="true" similarDeclarations="false" stamp="1533209349780" textual="false" version="1.0"/>
-</session>
