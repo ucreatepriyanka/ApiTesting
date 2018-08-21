@@ -1,0 +1,5 @@
+package RestAssuredFramework.Connected2.Sessions;
+
+public class CreateAdminSession {
+
+}
